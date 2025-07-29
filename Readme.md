@@ -44,8 +44,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Yadav-0&layout=compact&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Himanshu-Yadav-0&show_icons=true&theme=radical" />
+  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Yadav-0&layout=compact&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Himanshu-Yadav-0&show_icons=true&theme=radical" /> -->
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Himanshu-Yadav-0&theme=radical" />
 </div>
 
