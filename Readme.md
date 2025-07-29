@@ -8,7 +8,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"> About Me
 
-- 🪪 My full name is **Himanshu Yadav** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- 🪪 My full name is **Himanshu Yadav** <img src="https://tenor.com/view/pagefire-sunglasses-take-off-sunglasses-sunglasses-under-sunglasses-funny-gif-12292439055939096458" width="400" align="right"/>
 - 🎓 Final-year student, diving deep into **Backend, DevOps, and Data Engineering**
 - 💡 Constantly learning, reflecting, and building products that solve real problems
 - 🧩 Interested in:
