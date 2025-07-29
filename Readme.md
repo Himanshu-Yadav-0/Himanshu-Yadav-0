@@ -44,9 +44,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Yadav-0&layout=compact&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Himanshu-Yadav-0&show_icons=true&theme=radical" /> -->
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Himanshu-Yadav-0&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Yadav-0&layout=compact&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Himanshu-Yadav-0&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-Yadav-0&theme=radical" />
 </div>
 
 ## 📬 Let's Connect
@@ -60,9 +60,9 @@
   </a> &nbsp;&nbsp;
   <!-- <a href="https://leetcode.com/himanshu_ydv/">
     <img alt="LeetCode" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/leetcode.png" /> -->
-  <!-- </a> &nbsp;&nbsp; -->
+  </a> &nbsp;&nbsp;
   <a href="https://github.com/Himanshu-Yadav-0/">
-    <img alt="GitHub" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/git.png" />
+    <img alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
   </a>
 </p>
 
