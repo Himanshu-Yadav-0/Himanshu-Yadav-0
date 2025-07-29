@@ -62,7 +62,7 @@
     <img alt="LeetCode" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/leetcode.png" /> -->
   <!-- </a> &nbsp;&nbsp; -->
   <a href="https://github.com/Himanshu-Yadav-0/">
-    <img alt="GitHub" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/git.png" />
+    <img alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
   </a>
 </p>
 
